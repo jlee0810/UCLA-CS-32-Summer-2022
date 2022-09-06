@@ -1,6 +1,6 @@
 # UCLA-CS-32-Summer-2022
 
-This repository is to save my CS 31 Projects - Introductory CS @ UCLA
+This repository is to save my CS 32 Projects - Data Structure and Algorithm @ UCLA
 
 | Project | Grade         |   
 | ------- |:-------------:|
